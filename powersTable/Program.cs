@@ -6,13 +6,14 @@
         int userNumber = 0;
         while (continueLoop)
         {
-            while (true)
+            bool isNotValidInterger = true;
+            while (isNotValidInterger)
             {
                 Console.WriteLine("Please enter a integer greater than 0 and less than 1291 that you would like the powers of.");
                 int userInput = int.Parse(Console.ReadLine());
                 userNumber = userInput;
 
-                if (userInput >= 1 && userInput <= 1291)
+                if (userInput >= 1 && userInput <= 1290)
                 {
                     Console.WriteLine("That is a good number!");
                     int square, cube;
@@ -20,11 +21,11 @@
                     Console.WriteLine("\t" + "=======" + "\t\t" + "=======" + "\t\t" + "=======");
                     for (int i = 1; i <= userInput; i++)
                     {
-                        square = (int)(i * i);
-                        cube = (int)(i * i * i);
+                        square = i * i;
+                        cube = i * i * i;
                         Console.WriteLine("\t\t" + i + "\t\t" + square + "\t\t" + cube);
                     }
-                    break;
+                    isNotValidInterger = false;
                 }
                 else
                 {
