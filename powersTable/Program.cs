@@ -2,9 +2,9 @@
     {
         public static void Main()
         {
-        bool continueLoop = true;
+        bool isGettingPowers = true;
         int userNumber = 0;
-        while (continueLoop)
+        while (isGettingPowers)
         {
             bool isNotValidInterger = true;
             while (isNotValidInterger)
@@ -43,7 +43,7 @@
             else
             {
                 Console.WriteLine("Sorry you dont want to do it again. Have a good day!");
-                continueLoop = false;
+                isGettingPowers = false;
             }
         }
     }
