@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\powersTable.exe
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\powersTable.deps.json
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\powersTable.runtimeconfig.json
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\powersTable.dll
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\ref\powersTable.dll
+C:\GCclasswork\c#class\powersTable\powersTable\bin\Debug\net6.0\powersTable.pdb
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.AssemblyInfo.cs
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.dll
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\ref\powersTable.dll
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.pdb
+C:\GCclasswork\c#class\powersTable\powersTable\obj\Debug\net6.0\powersTable.genruntimeconfig.cache
